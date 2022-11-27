@@ -6,7 +6,6 @@ export class ToDo extends Component {
   constructor(props) {
     super(props)
     this.state = {
-
       todo_list: [],
       todo_text: '',
       fill: ''
